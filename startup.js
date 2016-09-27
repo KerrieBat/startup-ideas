@@ -31,7 +31,7 @@ var randomStartupIdea1 = thisArray[Math.floor(Math.random()*thisArray.length)];
 var randomStartupIdea2 = thatArray[Math.floor(Math.random()*thatArray.length)];
 
 console.log("hello");
-console.log(randomStartupIdea1);
-console.log(randomStartupIdea2);
+//console.log(randomStartupIdea1);
+//console.log(randomStartupIdea2);
 
 console.log("Hey, I have a great idea for a startup, it involves " + randomStartupIdea1 + " and " + randomStartupIdea2 + "!");
