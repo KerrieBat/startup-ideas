@@ -21,8 +21,11 @@ var thatArray = ["Facebook Platform","Erlang Enthusiasts","Ex-Girlfriends",
 "Surgeons","Pounding Jagger Bombs","Textbooks","Coffee Shops","Baristas"];
 
 
-//get a random member from 1 to 10
+//get a random member from 0 to 1
 //multiply it by the array length
+//math.floor() rounds down
+//math.ceil() rounds up
+//Math.round() just rounds
 //round the number and use this as the index from each array
 
 //combine them to give a great idea and send to cconsole
